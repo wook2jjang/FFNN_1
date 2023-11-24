@@ -1,13 +1,11 @@
 # FFNN_1
 국민대학교 데이터사이언스학과 딥러닝 스터디 week01_1 입니다.
 
-이번 스터디의 주제는 
+이번 스터디의 주제는 다음과 같습니다.
 
 - Feed Forward Neural Network
 - Forward Propagation
 - Training Neural Network
-
-입니다.
 
 필요한 부분은 스탠포드 대학의 CS231n의 lecture note를 참조하였습니다.
 - lecture_4_Neural Networks and Backpropagation
